@@ -1,0 +1,1 @@
+This program counts the frequency of words in input text, reads files and PDFs, and returns the results. This program is for practice purposes and is not a real application.
