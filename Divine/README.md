@@ -1,0 +1,1 @@
+This program is for calculating DIVIDER, which takes the amount and the status of equal or unequal distribution and divides it among individuals. This is a practice program, not a real program.
